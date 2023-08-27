@@ -8,7 +8,6 @@ Autonomous AI Flight Management System
  - [Technologies We Use](#technologies-we-use) 
  - [Problems We Hope To Solve](#problems-we-hope-to-solve)
  - [Project Developmemt Roadmap](#project-development-roadmap)
- - 
  
  
 # Introducing
