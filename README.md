@@ -5,7 +5,7 @@ Autonomous AI Flight Management System
 
  - [Introducing](#introfucing) 
  - [Vision and Mission](#vision-and-mission)
- - 
+ - [Technologies We Use](#technologies-we-use) 
  -
  
  
@@ -39,3 +39,39 @@ To pioneer a new era of aerospace autonomy, where AeroNavAI leads the way in sea
 
 **Mission:**
 Our mission is to revolutionize aviation by developing and deploying AeroNavAI as the foremost autonomous AI flight management system. Through constant innovation, data-driven insights, and user-centric design, we empower aviation professionals to navigate the skies with unprecedented precision, minimize environmental impact, and ensure the utmost safety. We envision a future where AeroNavAI transforms the way aircraft traverse the world, setting new standards in aerospace excellence.
+
+# Technologies We Use 
+
+**Technologies We Use:**
+
+1. **Artificial Intelligence (AI):**
+   Leveraging state-of-the-art machine learning algorithms and deep neural networks, we harness AI to process vast amounts of data in real-time, enabling intelligent decision-making and predictive insights.
+
+2. **Data Analytics and Big Data:**
+   Our system employs advanced data analytics techniques to process and analyze complex datasets, enabling us to optimize flight paths, predict maintenance needs, and make informed operational decisions.
+
+3. **Real-time Data Streaming:**
+   We utilize cutting-edge technologies for real-time data streaming, allowing us to receive and process live weather updates, air traffic information, and aircraft performance metrics instantaneously.
+
+4. **Automation and Autonomous Systems:**
+   By integrating automation technologies, we ensure that our system autonomously manages flight paths, air traffic, and maintenance insights, reducing human intervention and enhancing efficiency.
+
+5. **Human-Machine Interaction (HMI):**
+   Our intuitive user interface is designed for seamless interaction between humans and machines, offering easy access to critical information and enabling swift decision-making by pilots and aviation professionals.
+
+6. **Cloud Computing:**
+   Leveraging cloud computing resources, we process and store vast amounts of data securely, enabling scalability, flexibility, and accessibility for our users.
+
+7. **IoT Sensors and Connectivity:**
+   We integrate IoT sensors within aircraft components to collect real-time data on their health and performance, facilitating predictive maintenance and enhancing safety.
+
+8. **Machine Vision:**
+   Utilizing machine vision technology, we analyze visual data for enhanced situational awareness, aiding in navigation, obstacle detection, and collision avoidance.
+
+9. **Algorithm Optimization:**
+   Constantly refining our algorithms, we employ optimization techniques to fine-tune AI models, ensuring accurate predictions, efficient routing, and proactive maintenance insights.
+
+10. **Cybersecurity Measures:**
+    Ensuring data privacy and system integrity, we implement robust cybersecurity measures to protect sensitive information and maintain the system's reliability.
+
+At AeroNavAI, we are at the forefront of technological innovation, utilizing a diverse array of cutting-edge tools and techniques to redefine the aviation landscape.
