@@ -1,4 +1,4 @@
-# AeroOptiNav
+# AeroNavAI
 Autonomous AI Flight Management System
 
 **AeroNavAI: Autonomous AI Flight Management System**
