@@ -4,7 +4,7 @@ Autonomous AI Flight Management System
 # Contents 
 
  - [Introducing](#introfucing) 
- - [Vision and Mission](#vision-and-mision)
+ - [Vision and Mission](#vision-and-mission)
  - 
  -
  
