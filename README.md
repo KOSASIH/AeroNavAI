@@ -1,6 +1,16 @@
 # AeroNavAI
 Autonomous AI Flight Management System
 
+# Contents 
+
+ - [Introducing](#introfucing) 
+ - [Vision and Mission](#vision-and-mision)
+ - 
+ -
+ 
+ 
+# Introducing
+
 **AeroNavAI: Autonomous AI Flight Management System**
 
 **Description:**
@@ -21,3 +31,11 @@ Welcome to AeroNavAI, the next leap in aerospace technology – an autonomous AI
 6. **Tailored Autonomy Levels:** Recognizing diverse operational requirements, AeroNavAI introduces customizable autonomy levels. Operators can choose the extent of autonomous control, ensuring compatibility with various scenarios, crew preferences, and regulations.
 
 AeroNavAI transcends conventional aviation paradigms, heralding an era of unprecedented autonomy. With its mastery over AI, it redefines the boundaries of flight management, safety, and sustainability. Experience the evolution of aviation – from human-guided to autonomous intelligence – with AeroNavAI. Welcome to the future of aerospace.
+
+# Vision and Mission 
+
+**Vision:**
+To pioneer a new era of aerospace autonomy, where AeroNavAI leads the way in seamlessly integrating advanced AI and automation to elevate flight operations, efficiency, safety, and sustainability.
+
+**Mission:**
+Our mission is to revolutionize aviation by developing and deploying AeroNavAI as the foremost autonomous AI flight management system. Through constant innovation, data-driven insights, and user-centric design, we empower aviation professionals to navigate the skies with unprecedented precision, minimize environmental impact, and ensure the utmost safety. We envision a future where AeroNavAI transforms the way aircraft traverse the world, setting new standards in aerospace excellence.
