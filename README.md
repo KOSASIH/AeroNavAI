@@ -471,7 +471,6 @@ Certainly, let's continue to expand the roadmap for AeroNavAI:
 - Continue to collaborate with environmental organizations, research institutions, and industry partners to reduce the aviation industry's carbon footprint and advocate for sustainable practices.
 - Lead initiatives to transform AeroNavAI into a catalyst for positive change in aviation's environmental impact.
 
-Certainly, let's continue expanding the roadmap for AeroNavAI:
 
 **Phase 16: Interstellar Navigation (Year 50 and beyond)**
 
